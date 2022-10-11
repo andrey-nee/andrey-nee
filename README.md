@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=3000&color=00B101&background=000000&width=435&lines=I'm+not+smart%2C+I+just+wear+glasses.)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrey-nee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrey-nee&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **andrey-nee/andrey-nee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
